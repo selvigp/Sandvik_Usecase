@@ -1,0 +1,10 @@
+[2025-02-01 10:12:34] SERVER-01 INFO User 'alice' logged in
+[2025-02-01 10:15:45] SERVER-02 ERROR API request failed (status=500)
+[2025-02-01 10:18:10] SERVER-01 WARN High memory usage detected (usage=92%)
+[2025-02-01 10:20:20] SERVER-03 INFO User 'bob' accessed dashboard
+[2025-02-01 10:22:55] SERVER-02 INFO User 'alice' logged out
+[2025-02-11 10:12:34] SERVER-03 INFO User 'alice' logged in
+[2025-02-11 10:15:45] SERVER-02 ERROR API request failed (status=500)
+[2025-02-11 10:18:10] SERVER-03 WARN High memory usage detected (usage=92%)
+[2025-02-11 10:20:20] SERVER-01 INFO User 'bob' accessed dashboard
+[2025-02-13 10:22:55] SERVER-03 INFO User 'alice' logged out

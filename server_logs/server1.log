@@ -1,0 +1,6 @@
+[2025-02-07 10:12:34] SERVER-01 INFO User 'bob' logged in
+[2025-02-07 10:15:45] SERVER-02 ERROR API request failed (status=400)
+[2025-02-08 10:18:10] SERVER-01 WARN High memory usage detected (usage=82%)
+[2025-02-09 10:20:20] SERVER-03 INFO User 'alice' accessed dashboard
+[2025-02-09 10:22:55] SERVER-02 INFO User 'trivy' logged out
+[2025-02-09 10:45:45] SERVER-01 ERROR API request failed (status=300)
